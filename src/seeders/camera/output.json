@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "model": "everest",
+    "resolution": "Full HD",
+    "status": "Enable",
+    "protocol": "RTSP",
+    "channel": 1,
+    "host": "13.48.185.247",
+    "label": "giris",
+    "type": "Digital",
+    "password": "test",
+    "user": "postgres",
+    "aditional": {
+      "points": [
+        {
+          "x": 0.36,
+          "y": 0.5
+        },
+        {
+          "x": 0.56,
+          "y": 0.5
+        },
+        {
+          "x": 0.56,
+          "y": 0.5
+        }
+      ]
+    },
+    "branch_id": 2,
+    "pat": "live-stream"
+  },
+  {
+    "id": 2,
+    "model": "Hikvision",
+    "resolution": "Full HD",
+    "status": "Enable",
+    "protocol": "RTSP",
+    "channel": 101,
+    "host": "45.139.203.25\n",
+    "label": "Giriş",
+    "type": "Digitales",
+    "password": "Minoa2024.",
+    "user": "postgres",
+    "aditional": {
+      "points": [
+        {
+          "x": 829,
+          "y": 338
+        },
+        {
+          "x": 1009,
+          "y": 361
+        }
+      ]
+    },
+    "branch_id": 2,
+    "pat": "Streaming/Channels"
+  }
+]
